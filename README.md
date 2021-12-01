@@ -1,2 +1,4 @@
 # BudgetManager
-Created Budget manager chrome Extension  . In this I added chrome storage api and notification api
+This is example Browser Action 
+Created Budget manager chrome Extension  . In this I use chrome storage api, chrome notification api and chrome batch api
+
